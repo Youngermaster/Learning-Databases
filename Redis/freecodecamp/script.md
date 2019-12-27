@@ -1,3 +1,6 @@
+## Before start
+    $ ./redis-server
+
 ## Basic scripts
 
     $ ./redis-cli
